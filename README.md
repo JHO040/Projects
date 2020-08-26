@@ -1,5 +1,5 @@
 # Projects
-1. HE3022 Forecast Singapore Birth Rate
+1. HE3022 Forecast Singapore Birth Rate (R-based)
 - Decomposed Singapore's Quarterly Birth Rate into Trend, Seasonality and Error
 - Forecast using naive methods, Holt's Winter Seasonal Method, Seasonal ARIMA
 - Introduce 'GDP Growth' as an additional predictor variable
